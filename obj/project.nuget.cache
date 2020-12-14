@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yW8Yu75AVeOIGaTwm+8TlRFGeIPYoZEiCkhKb4GfHq5Fy8jy0gtKUySHxIR4dkWA3jO6tL0RQdDTuN9crdTbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\twocolorball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
