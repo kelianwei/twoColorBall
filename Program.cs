@@ -8,17 +8,19 @@ namespace twocolorball
     {
         private static void Main(string[] args)
         {
+           
             bool yes = false;
             int n = 0;
             string r = "";
             while (!yes)
             {
                 List<int> redBalls = Enumerable.Range(1, 33).OrderBy(x => Guid.NewGuid().GetHashCode()).Take(6).ToList();
-                List<int> blueBall = Enumerable.Range(1, 16).OrderBy(x => Guid.NewGuid().GetHashCode()).Take(1).ToList();
+                int blueBall = new Random(BitConverter.ToInt32(Guid.NewGuid().ToByteArray(), 0)).Next(1, 16);
+
                 List<int> myRedBalls = Enumerable.Range(1, 33).OrderBy(x => Guid.NewGuid().GetHashCode()).Take(6).ToList();
-                List<int> myBlueBall = Enumerable.Range(1, 16).OrderBy(x => Guid.NewGuid().GetHashCode()).Take(1).ToList();
-                redBalls.Sort(); myRedBalls.Sort();
-                if (Enumerable.SequenceEqual(redBalls, myRedBalls) && myBlueBall.SequenceEqual(blueBall))
+                int myBlueBall = new Random(BitConverter.ToInt32(Guid.NewGuid().ToByteArray(), 0)).Next(1, 16);
+
+                if (Enumerable.SequenceEqual(redBalls.OrderBy(i => i), myRedBalls.OrderBy(i => i)) && blueBall == myBlueBall)
                 {
                     r = JsonConvert.SerializeObject(new { redBalls, blueBall, myRedBalls, myBlueBall });
                     yes = true;

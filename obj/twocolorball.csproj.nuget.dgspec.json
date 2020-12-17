@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\twocolorball.csproj": {}
+    "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\twocolorball.csproj": {
+    "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\twocolorball.csproj",
+        "projectUniqueName": "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj",
         "projectName": "twocolorball",
-        "projectPath": "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\twocolorball.csproj",
+        "projectPath": "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj",
         "packagesPath": "C:\\Users\\ke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ke\\Desktop\\twocolorball\\twoColorBall\\obj\\",
+        "outputPath": "C:\\Users\\ke\\Desktop\\twocolorball\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ke\\AppData\\Roaming\\NuGet\\NuGet.Config",
