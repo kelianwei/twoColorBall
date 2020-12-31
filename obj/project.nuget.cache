@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8Tf6anAJHU4q9Hy9UMxv1HfdeVutn8Q86/FC0aUc7OdYQRuCvCgL7G5CtXLlAvrKin9P1WWjcvI1tKC2qFUtbg==",
+  "dgSpecHash": "lyVi7nj9EFUknLxYQZ6zeuN0VbKoUn1JQBXlf+3swegtDjSXlM3rA6DcHWBA4pwyPNhGRSOWWGYw8rpXI+/GGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj",
+  "projectFilePath": "/Users/kelianwei/Public/git/twoColorBall/twocolorball.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\ke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\ke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+    "/Users/kelianwei/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

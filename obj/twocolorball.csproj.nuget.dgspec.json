@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj": {}
+    "/Users/kelianwei/Public/git/twoColorBall/twocolorball.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj": {
+    "/Users/kelianwei/Public/git/twoColorBall/twocolorball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj",
+        "projectUniqueName": "/Users/kelianwei/Public/git/twoColorBall/twocolorball.csproj",
         "projectName": "twocolorball",
-        "projectPath": "C:\\Users\\ke\\Desktop\\twocolorball\\twocolorball.csproj",
-        "packagesPath": "C:\\Users\\ke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ke\\Desktop\\twocolorball\\obj\\",
+        "projectPath": "/Users/kelianwei/Public/git/twoColorBall/twocolorball.csproj",
+        "packagesPath": "/Users/kelianwei/.nuget/packages/",
+        "outputPath": "/Users/kelianwei/Public/git/twoColorBall/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kelianwei/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.3.177:9090/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,22 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
